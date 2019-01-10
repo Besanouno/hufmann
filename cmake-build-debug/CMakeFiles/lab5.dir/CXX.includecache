@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/besanouno/Projects/uczelnia/ZAISD/lab5/main2.cpp
+iostream
+/home/besanouno/Projects/uczelnia/ZAISD/lab5/iostream
+

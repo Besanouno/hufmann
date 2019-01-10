@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab5.dir/encode.cpp.o CMakeFiles/lab5.dir/decode.cpp.o CMakeFiles/lab5.dir/kaldus.cpp.o  -o lab5 
